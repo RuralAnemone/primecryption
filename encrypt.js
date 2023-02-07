@@ -1,4 +1,4 @@
-import "nthPrime.js";
+const nthPrime = require('./nthPrime.js');
 
 function encrypt(string) {
     let array = [];
