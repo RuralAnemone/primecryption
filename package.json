@@ -1,0 +1,10 @@
+{
+  "name": "primecryption",
+  "version": "0.0.1",
+  "description": "encryption using primes idk",
+  "main": "index.js",
+  "repository": "github.com/RuralAnemone/primecryption",
+  "author": "Rural Anemone <dev@ruralanemone.tech>",
+  "license": "MIT",
+  "private": null
+}
